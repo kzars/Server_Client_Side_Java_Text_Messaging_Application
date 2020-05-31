@@ -26,7 +26,7 @@ java ServerSide
 ```
 Klienta puses startēšana
 ```
-java ServerSide
+java ClientSide
 ```
 
 Klientu var startēt atkārtoti, lai būtu vairāki klienti vienlaicīgi
