@@ -1,7 +1,5 @@
 # Server & Client side Java text messaging application
 
-Ziņojumapmaiņas lietotne
-
 ## Par lietotni
 
 Programma veidota izmantojot JAVA programmēšanas valodu. Tā satur Servera pusi, kas nodrošina teksta apmaiņu un Klienta puse, kas tiek izmantota lai nosūtītu ziņas.
